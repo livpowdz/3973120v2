@@ -1,0 +1,50 @@
+
+/* General Style information */
+
+body { background-color: white;}
+
+/* Text style information */
+
+h1 { 
+    color: black;
+    text-align: center;
+    font-style: normal;
+    font-size: 50px;
+    font-family: 'Silkscreen', cursive;
+}
+
+p {
+color: rgb(92, 92, 92);
+font-size: 20px;
+text-align: center;
+font-family: 'Play', sans-serif;
+
+}
+
+h2 { 
+    color: black;
+text-align: center;
+font-style: normal;
+font-size: 40px;
+font-family: 'Oswald', sans-serif;
+}
+
+h3 { 
+    color: black;
+    text-align: center;
+    font-style: normal;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+}
+
+h4 {
+    color: black;
+    text-align: left;
+    font-style: normal;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+
+
